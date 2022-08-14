@@ -1,6 +1,6 @@
 # Gait Recogniton
 
-For full code implementation visit [github/gait_recognition](https://github.com/KLASS-gait-recognition).
+For full code implementation visit [github/gait_recogntition](https://github.com/dksath/gait_recognition).
 
 ## Project layout
 
